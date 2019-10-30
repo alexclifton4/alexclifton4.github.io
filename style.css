@@ -11,6 +11,13 @@ body {
   border-radius: 1rem;
 }
 
+.box {
+  background-color: #cccccc;
+  border-radius: 1rem;
+  margin: 1.5rem 1.5rem;
+  padding: 0.5rem;
+}
+
 .label {
   float: left; 
   width: 100%;
